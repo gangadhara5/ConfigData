@@ -5,5 +5,5 @@ eureka:
       
 ---
 spring:
-  profiles: lab-4-subject
+  profiles: subject
 words: Puchki, Tuchki, Lachki
